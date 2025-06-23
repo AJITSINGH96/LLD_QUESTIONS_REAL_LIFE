@@ -1,0 +1,3 @@
+﻿  Book_Reader.cpp
+C:\Users\ash68\source\repos\Design_Patterns_LLD\LLD_QUESTIONS\Book_Reader.cpp(51,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  LLD_QUESTIONS.vcxproj -> C:\Users\ash68\source\repos\Design_Patterns_LLD\x64\Debug\LLD_QUESTIONS.exe
